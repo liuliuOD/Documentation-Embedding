@@ -1,6 +1,6 @@
 use actix_web::web;
 
-use crate::routes::{v1};
+use crate::routes::v1;
 
 pub fn router(cfg: &mut web::ServiceConfig) {
   // domain includes: /v1/
