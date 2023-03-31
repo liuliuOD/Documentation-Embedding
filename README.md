@@ -27,3 +27,8 @@ This tool provides a fast and efficient way to convert text into vector embeddin
     end
     backend --> |7. Response| client
 ```
+
+## Settings
+
+- Qdrant ([here is a template for using Docker](https://github.com/liuliuOD/Dockerize-Templates/tree/main/Qdrant))
+- Rust
